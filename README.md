@@ -4,7 +4,7 @@ Infinity est une application Android permettant d'accéder à mon assistant d'in
 
 Version actuelle
 
-v2.0.0
+v2.0.1
 
 Téléchargement
 
