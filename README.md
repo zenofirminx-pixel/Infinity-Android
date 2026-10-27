@@ -2,9 +2,9 @@ Infinity Android
 
 Infinity est une application Android permettant d'accéder à mon assistant d'intelligence artificielle.
 
-Version actuelle
+🔗Version actuelle
 
-v2.0.1
+v2.26.3
 
 Téléchargement
 
